@@ -1,6 +1,19 @@
 class variables {
 public static void main(String[] args){
-int a=1,b=2,c=3,d=4;
+int a=1,b=2,c=3,d=4;  
+/*
+  It's recommended to Make or Declare the "Variables" With MeaningFul-Names;
+  Like, 
+  
+   ->  int firstNumber = 3, secondNum = 23;
+   ->  float firstFloatNumber = 34; 
+   
+   // By Adapting This Practice, Your Code Would Be Much More Readable, Stable, & much more Clear.
+   // Even On the [Industrial-Level] We Must Use The Meaningful-Names For Variables In Our Code.
+   
+   I Hope You Like The Recommendation Keep Learning and exploring..:)
+  
+ */
 System.out.println( "INTEGER VARIABLES");
 System.out.println("here a variable store integer datatype "+a);
 System.out.println("here b variable store integer datatype "+b);
